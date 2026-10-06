@@ -1,0 +1,1788 @@
+[
+{
+"t": "The Guide, R. K. Narayan",
+"c": "Books",
+"k": "Good",
+"p": 500,
+"d": "Paperback, slight yellowing.",
+"w": [
+"The_Guide_(novel)",
+"R._K._Narayan"
+],
+"h": 62.6,
+"n": 1,
+"s": "Aarav",
+"g": 0.3
+},
+{
+"t": "Introduction to Algorithms",
+"c": "Books",
+"k": "Good",
+"p": 2200,
+"d": "CLRS 3rd edition, no markings.",
+"w": [
+"Introduction_to_Algorithms",
+"Algorithm"
+],
+"h": 113.3,
+"n": 9,
+"s": "Meera",
+"g": 0.13
+},
+{
+"t": "Cricket bat, kashmir willow",
+"c": "Other",
+"k": "Good",
+"p": 1800,
+"d": "Full-size bat, knocked in.",
+"w": [
+"Cricket_bat",
+"Cricket"
+],
+"h": 66.3,
+"n": 15,
+"s": "Kabir",
+"g": 0.36
+},
+{
+"t": "Terracotta planter set",
+"c": "Home",
+"k": "New",
+"p": 900,
+"d": "Set of 4 hand-painted planters.",
+"w": [
+"Terracotta",
+"Flowerpot"
+],
+"h": 9.6,
+"n": 0,
+"s": "Ishita",
+"g": 0.2
+},
+{
+"t": "Samsung Galaxy S21",
+"c": "Electronics",
+"k": "Good",
+"p": 21000,
+"d": "128GB, Phantom Grey, small scratch on frame. Charger included.",
+"w": [
+"Samsung_Galaxy_S21",
+"Samsung_Galaxy"
+],
+"h": 30.3,
+"n": 12,
+"s": "Rohan",
+"g": 0.24
+},
+{
+"t": "Adjustable dumbbells",
+"c": "Other",
+"k": "Good",
+"p": 3500,
+"d": "Pair 2-20 kg adjustable set.",
+"w": [
+"Dumbbell",
+"Weight_training"
+],
+"h": 5.8,
+"n": 7,
+"s": "Neha",
+"g": 0.36
+},
+{
+"t": "Copper samovar",
+"c": "Collectibles",
+"k": "Good",
+"p": 3200,
+"d": "Large decorative copper tea urn.",
+"w": [
+"Samovar",
+"Copper"
+],
+"h": 136.8,
+"n": 5,
+"s": "Vikram",
+"g": 0.06
+},
+{
+"t": "Yamaha FZ-S",
+"c": "Vehicles",
+"k": "Good",
+"p": 65000,
+"d": "2019, 18,000 km, FI model.",
+"w": [
+"Yamaha_FZ150",
+"Yamaha_Motor_Company"
+],
+"h": 7.5,
+"n": 0,
+"s": "Sara",
+"g": 0.15
+},
+{
+"t": "JBL Flip 5 speaker",
+"c": "Electronics",
+"k": "Good",
+"p": 4500,
+"d": "Waterproof Bluetooth speaker in teal.",
+"w": [
+"JBL",
+"Loudspeaker"
+],
+"h": 40.0,
+"n": 12,
+"s": "Ananya",
+"g": 0.03
+},
+{
+"t": "MacBook Air M1",
+"c": "Electronics",
+"k": "Like new",
+"p": 35000,
+"d": "13-inch, 8GB RAM, 256GB. Battery health 94%. Charger and box included.",
+"w": [
+"MacBook_Air",
+"MacBook"
+],
+"h": 2.6,
+"n": 12,
+"s": "Aarav",
+"g": 0.16
+},
+{
+"t": "Foldable bicycle",
+"c": "Vehicles",
+"k": "Like new",
+"p": 9000,
+"d": "Compact aluminium commuter bike.",
+"w": [
+"Folding_bicycle",
+"Bicycle"
+],
+"h": 144.5,
+"n": 3,
+"s": "Divya",
+"g": 0.05
+},
+{
+"t": "Lenovo ThinkPad T480",
+"c": "Electronics",
+"k": "Good",
+"p": 27000,
+"d": "i5, 16GB RAM, 512GB SSD. Great for office work.",
+"w": [
+"ThinkPad_T_series",
+"ThinkPad"
+],
+"h": 14.2,
+"n": 9,
+"s": "Arjun",
+"g": 0.03
+},
+{
+"t": "Hiking backpack, 50L",
+"c": "Other",
+"k": "Good",
+"p": 3000,
+"d": "Rain cover and chest strap included.",
+"w": [
+"Backpack",
+"Hiking"
+],
+"h": 5.7,
+"n": 9,
+"s": "Aarav",
+"g": 0.13
+},
+{
+"t": "Old film camera, Kodak Brownie",
+"c": "Collectibles",
+"k": "Fair",
+"p": 2500,
+"d": "Collector's box camera from the 1950s.",
+"w": [
+"Brownie_(camera)",
+"Kodak"
+],
+"h": 8.2,
+"n": 4,
+"s": "Meera",
+"g": 0.31
+},
+{
+"t": "Mixer grinder, Bajaj",
+"c": "Home",
+"k": "Good",
+"p": 2000,
+"d": "750W with 3 jars.",
+"w": [
+"Blender",
+"Bajaj_Electricals"
+],
+"h": 24.7,
+"n": 2,
+"s": "Kabir",
+"g": 0.33
+},
+{
+"t": "Kindle Paperwhite",
+"c": "Electronics",
+"k": "Good",
+"p": 7000,
+"d": "8GB, backlit, warm light. Cover included.",
+"w": [
+"Amazon_Kindle",
+"Kindle"
+],
+"h": 4.6,
+"n": 0,
+"s": "Ishita",
+"g": 0.32
+},
+{
+"t": "Harry Potter box set",
+"c": "Books",
+"k": "Good",
+"p": 3500,
+"d": "All seven books, paperback, UK editions.",
+"w": [
+"Harry_Potter",
+"Harry_Potter_(book_series)"
+],
+"h": 69.9,
+"n": 4,
+"s": "Rohan",
+"g": 0.05
+},
+{
+"t": "Logitech MX Master 3 mouse",
+"c": "Electronics",
+"k": "Like new",
+"p": 4500,
+"d": "Wireless ergonomic mouse with USB receiver.",
+"w": [
+"Logitech",
+"Computer_mouse"
+],
+"h": 1.3,
+"n": 7,
+"s": "Neha",
+"g": 0.37
+},
+{
+"t": "Fossil analog watch",
+"c": "Fashion",
+"k": "Good",
+"p": 5000,
+"d": "Brown leather strap, quartz movement.",
+"w": [
+"Fossil_Group",
+"Wristwatch"
+],
+"h": 108.5,
+"n": 2,
+"s": "Vikram",
+"g": 0.2
+},
+{
+"t": "Gramophone record player",
+"c": "Collectibles",
+"k": "Fair",
+"p": 12000,
+"d": "Wind-up gramophone with horn, working condition.",
+"w": [
+"Phonograph",
+"Gramophone_record"
+],
+"h": 179.3,
+"n": 7,
+"s": "Sara",
+"g": 0.17
+},
+{
+"t": "Old Indian coin collection",
+"c": "Collectibles",
+"k": "Good",
+"p": 6000,
+"d": "Over 60 British India and early republic coins.",
+"w": [
+"Coins_of_India",
+"Coin_collecting"
+],
+"h": 23.4,
+"n": 12,
+"s": "Ananya",
+"g": 0.36
+},
+{
+"t": "Brass hookah, antique",
+"c": "Collectibles",
+"k": "Fair",
+"p": 5000,
+"d": "Decorated Mughal-style hookah.",
+"w": [
+"Hookah",
+"Brass"
+],
+"h": 84.5,
+"n": 1,
+"s": "Karan",
+"g": 0.23
+},
+{
+"t": "Tata Nano, 2014",
+"c": "Vehicles",
+"k": "Fair",
+"p": 60000,
+"d": "Low running cost city car, 35,000 km.",
+"w": [
+"Tata_Nano",
+"Tata_Motors"
+],
+"h": 6.3,
+"n": 5,
+"s": "Divya",
+"g": 0.39
+},
+{
+"t": "Lord of the Rings trilogy",
+"c": "Books",
+"k": "Like new",
+"p": 2800,
+"d": "Hardcover boxed set with maps.",
+"w": [
+"The_Lord_of_the_Rings",
+"J._R._R._Tolkien"
+],
+"h": 27.0,
+"n": 12,
+"s": "Arjun",
+"g": 0.14
+},
+{
+"t": "Gold-plated jhumka earrings",
+"c": "Fashion",
+"k": "New",
+"p": 1500,
+"d": "Traditional temple jewellery earrings.",
+"w": [
+"Jhumka",
+"Earring"
+],
+"h": 173.0,
+"n": 15,
+"s": "Aarav",
+"g": 0.24
+},
+{
+"t": "Jaipuri quilt, double bed",
+"c": "Home",
+"k": "New",
+"p": 1500,
+"d": "Pure cotton hand-block printed razai.",
+"w": [
+"Rajai",
+"Quilt"
+],
+"h": 16.1,
+"n": 9,
+"s": "Meera",
+"g": 0.21
+},
+{
+"t": "Wooden bookshelf",
+"c": "Home",
+"k": "Good",
+"p": 4500,
+"d": "5-tier sheesham bookshelf.",
+"w": [
+"Bookcase",
+"Shelf_(storage)"
+],
+"h": 24.6,
+"n": 1,
+"s": "Kabir",
+"g": 0.07
+},
+{
+"t": "iPhone 13, 128GB",
+"c": "Electronics",
+"k": "Good",
+"p": 32000,
+"d": "Midnight colour, battery 89%, no cracks. Original box.",
+"w": [
+"IPhone_13",
+"IPhone"
+],
+"h": 167.0,
+"n": 0,
+"s": "Ishita",
+"g": 0.36
+},
+{
+"t": "Complete Premchand set",
+"c": "Books",
+"k": "Good",
+"p": 1200,
+"d": "Twelve volumes in Hindi, hardbound, minor shelf wear.",
+"w": [
+"Premchand",
+"Hindi_literature"
+],
+"h": 106.2,
+"n": 5,
+"s": "Rohan",
+"g": 0.03,
+"top": "Demo User"
+},
+{
+"t": "Sony WH-1000XM5",
+"c": "Electronics",
+"k": "Like new",
+"p": 10000,
+"d": "Noise-cancelling headphones, used three months. Case and cable included.",
+"w": [
+"Sony_WH-1000X",
+"Headphones"
+],
+"h": 7.5,
+"n": 7,
+"s": "Neha",
+"g": 0.19,
+"top": "Demo Buyer"
+},
+{
+"t": "Hero Sprint cycle",
+"c": "Vehicles",
+"k": "Good",
+"p": 3500,
+"d": "21-gear mountain bike, 26 inch.",
+"w": [
+"Bicycle",
+"Hero_Cycles"
+],
+"h": 92.1,
+"n": 9,
+"s": "Vikram",
+"g": 0.36
+},
+{
+"t": "Encyclopaedia Britannica set",
+"c": "Books",
+"k": "Fair",
+"p": 8000,
+"d": "32 volumes, 1990s edition.",
+"w": [
+"Encyclopædia_Britannica",
+"Encyclopedia"
+],
+"h": 57.5,
+"n": 0,
+"s": "Sara",
+"g": 0.28
+},
+{
+"t": "Telescope, 70mm refractor",
+"c": "Other",
+"k": "Good",
+"p": 7000,
+"d": "Beginner telescope with tripod.",
+"w": [
+"Refracting_telescope",
+"Telescope"
+],
+"h": 11.1,
+"n": 15,
+"s": "Ananya",
+"g": 0.27
+},
+{
+"t": "Silver oxidised necklace",
+"c": "Fashion",
+"k": "New",
+"p": 2200,
+"d": "Handcrafted tribal silver-look necklace.",
+"w": [
+"Oxidized_silver",
+"Necklace"
+],
+"h": 1.5,
+"n": 5,
+"s": "Karan",
+"g": 0.36
+},
+{
+"t": "PlayStation 5 console",
+"c": "Electronics",
+"k": "Like new",
+"p": 39000,
+"d": "Disc edition with one controller and 2 games.",
+"w": [
+"PlayStation_5"
+],
+"h": 169.5,
+"n": 4,
+"s": "Divya",
+"g": 0.18
+},
+{
+"t": "Harmonium, 3 reed",
+"c": "Other",
+"k": "Good",
+"p": 5500,
+"d": "Folding portable harmonium with cover.",
+"w": [
+"Harmonium",
+"Reed_organ"
+],
+"h": 131.1,
+"n": 7,
+"s": "Arjun",
+"g": 0.29
+},
+{
+"t": "Kolhapuri chappals",
+"c": "Fashion",
+"k": "New",
+"p": 900,
+"d": "Handmade leather sandals, size 8.",
+"w": [
+"Kolhapuri_chappal",
+"Sandal"
+],
+"h": 2.8,
+"n": 2,
+"s": "Aarav",
+"g": 0.39
+},
+{
+"t": "Chanakya's Arthashastra",
+"c": "Books",
+"k": "Good",
+"p": 900,
+"d": "Penguin classics translation.",
+"w": [
+"Arthashastra",
+"Chanakya"
+],
+"h": 32.6,
+"n": 1,
+"s": "Meera",
+"g": 0.33
+},
+{
+"t": "Maruti Swift 2012",
+"c": "Vehicles",
+"k": "Fair",
+"p": 230000,
+"d": "Petrol, 70,000 km, runs smoothly.",
+"w": [
+"Maruti_Suzuki_Swift",
+"Suzuki_Swift"
+],
+"h": 138.2,
+"n": 4,
+"s": "Kabir",
+"g": 0.05
+},
+{
+"t": "Lehenga, bridal red",
+"c": "Fashion",
+"k": "Good",
+"p": 18000,
+"d": "Heavily embroidered, worn once, size M.",
+"w": [
+"Lehenga",
+"Bridal_clothing"
+],
+"h": 1.1,
+"n": 15,
+"s": "Ishita",
+"g": 0.05
+},
+{
+"t": "Dining table, 6 seater",
+"c": "Home",
+"k": "Good",
+"p": 14000,
+"d": "Solid wood table with 6 chairs.",
+"w": [
+"Dining_room",
+"Table_(furniture)"
+],
+"h": 2.2,
+"n": 7,
+"s": "Rohan",
+"g": 0.02
+},
+{
+"t": "Violin, 4/4 size",
+"c": "Other",
+"k": "Good",
+"p": 8000,
+"d": "Student violin with bow and case.",
+"w": [
+"Violin",
+"String_instrument"
+],
+"h": 6.0,
+"n": 9,
+"s": "Neha",
+"g": 0.29
+},
+{
+"t": "DJI Mavic Mini drone",
+"c": "Electronics",
+"k": "Good",
+"p": 26000,
+"d": "Under 250g drone, 3 batteries, carry bag.",
+"w": [
+"DJI_Mavic_Mini",
+"Unmanned_aerial_vehicle"
+],
+"h": 47.3,
+"n": 15,
+"s": "Vikram",
+"g": 0.14
+},
+{
+"t": "Silk dupatta set",
+"c": "Fashion",
+"k": "New",
+"p": 1800,
+"d": "Set of 3 hand-dyed silk dupattas.",
+"w": [
+"Dupatta",
+"Silk"
+],
+"h": 63.0,
+"n": 0,
+"s": "Sara",
+"g": 0.4
+},
+{
+"t": "Pashmina shawl",
+"c": "Fashion",
+"k": "New",
+"p": 7000,
+"d": "Kashmiri pashmina with fine embroidery.",
+"w": [
+"Pashmina",
+"Shawl"
+],
+"h": 197.7,
+"n": 2,
+"s": "Ananya",
+"g": 0.38
+},
+{
+"t": "Ceiling fan, Orient",
+"c": "Home",
+"k": "Like new",
+"p": 1800,
+"d": "1200mm, 5-star energy rating.",
+"w": [
+"Ceiling_fan",
+"Orient_Electric"
+],
+"h": 147.5,
+"n": 9,
+"s": "Karan",
+"g": 0.14
+},
+{
+"t": "Titan automatic watch",
+"c": "Fashion",
+"k": "Like new",
+"p": 6500,
+"d": "Self-winding, steel case, box and papers.",
+"w": [
+"Titan_Company",
+"Automatic_watch"
+],
+"h": 11.5,
+"n": 5,
+"s": "Divya",
+"g": 0.4
+},
+{
+"t": "Floor lamp, brass",
+"c": "Home",
+"k": "Good",
+"p": 2500,
+"d": "Adjustable reading lamp.",
+"w": [
+"Floor_lamp",
+"Lamp"
+],
+"h": 30.9,
+"n": 5,
+"s": "Arjun",
+"g": 0.08
+},
+{
+"t": "Vinyl records, Bollywood 70s",
+"c": "Collectibles",
+"k": "Good",
+"p": 4000,
+"d": "Lot of 15 original pressings.",
+"w": [
+"Gramophone_record",
+"Bollywood"
+],
+"h": 87.5,
+"n": 12,
+"s": "Aarav",
+"g": 0.11
+},
+{
+"t": "Antique brass diya set",
+"c": "Collectibles",
+"k": "Good",
+"p": 2500,
+"d": "Set of 5 hand-cast temple lamps.",
+"w": [
+"Diya_(lamp)",
+"Brass"
+],
+"h": 40.4,
+"n": 4,
+"s": "Meera",
+"g": 0.39
+},
+{
+"t": "Electric scooter, Ather",
+"c": "Vehicles",
+"k": "Like new",
+"p": 70000,
+"d": "2022 model, 6,000 km, charger included.",
+"w": [
+"Ather_Energy",
+"Electric_scooter"
+],
+"h": 46.1,
+"n": 2,
+"s": "Kabir",
+"g": 0.16
+},
+{
+"t": "Cane lounge chair",
+"c": "Home",
+"k": "Good",
+"p": 3500,
+"d": "Rattan chair with cushion.",
+"w": [
+"Wicker",
+"Chair"
+],
+"h": 15.2,
+"n": 2,
+"s": "Ishita",
+"g": 0.21
+},
+{
+"t": "Teak study desk",
+"c": "Home",
+"k": "Good",
+"p": 6000,
+"d": "120 x 60 cm solid teak with two drawers.",
+"w": [
+"Writing_desk",
+"Desk"
+],
+"h": 0.8,
+"n": 5,
+"s": "Rohan",
+"g": 0.03
+},
+{
+"t": "Oil painting, landscape",
+"c": "Other",
+"k": "Good",
+"p": 5000,
+"d": "Original 24x36 inch canvas.",
+"w": [
+"Oil_painting",
+"Landscape_painting"
+],
+"h": 11.6,
+"n": 15,
+"s": "Neha",
+"g": 0.36
+},
+{
+"t": "Bajaj Pulsar 150",
+"c": "Vehicles",
+"k": "Good",
+"p": 52000,
+"d": "2016, 30,000 km, new tyres.",
+"w": [
+"Bajaj_Pulsar",
+"Bajaj_Auto"
+],
+"h": 171.0,
+"n": 1,
+"s": "Vikram",
+"g": 0.13
+},
+{
+"t": "Vintage radio, Murphy",
+"c": "Collectibles",
+"k": "Fair",
+"p": 5500,
+"d": "Valve radio, cabinet restored.",
+"w": [
+"Murphy_Radio",
+"Radio"
+],
+"h": 170.4,
+"n": 9,
+"s": "Sara",
+"g": 0.07
+},
+{
+"t": "Prestige pressure cooker",
+"c": "Home",
+"k": "Good",
+"p": 1200,
+"d": "5 litre stainless steel cooker.",
+"w": [
+"Pressure_cooker",
+"Prestige_Group"
+],
+"h": 18.1,
+"n": 0,
+"s": "Ananya",
+"g": 0.03
+},
+{
+"t": "Ray-Ban Aviator sunglasses",
+"c": "Fashion",
+"k": "Like new",
+"p": 4500,
+"d": "Classic gold frame, green lenses, with case.",
+"w": [
+"Ray-Ban",
+"Aviator_sunglasses"
+],
+"h": 1.5,
+"n": 15,
+"s": "Karan",
+"g": 0.03
+},
+{
+"t": "HP LaserJet printer",
+"c": "Electronics",
+"k": "Good",
+"p": 5000,
+"d": "Monochrome laser printer, toner nearly full.",
+"w": [
+"Laser_printing",
+"Printer_(computing)"
+],
+"h": 3.6,
+"n": 9,
+"s": "Divya",
+"g": 0.36
+},
+{
+"t": "Vintage Bakelite telephone",
+"c": "Collectibles",
+"k": "Fair",
+"p": 3800,
+"d": "Black rotary dial phone from the 1960s.",
+"w": [
+"Bakelite",
+"Rotary_dial"
+],
+"h": 1.3,
+"n": 3,
+"s": "Arjun",
+"g": 0.11
+},
+{
+"t": "Carrom board, tournament",
+"c": "Other",
+"k": "Good",
+"p": 2000,
+"d": "Full-size board with striker and coins.",
+"w": [
+"Carrom",
+"Board_game"
+],
+"h": 143.9,
+"n": 0,
+"s": "Aarav",
+"g": 0.2
+},
+{
+"t": "Wool blazer, navy",
+"c": "Fashion",
+"k": "Good",
+"p": 3000,
+"d": "Slim fit size 40, dry-cleaned.",
+"w": [
+"Blazer",
+"Suit_(clothing)"
+],
+"h": 4.4,
+"n": 12,
+"s": "Meera",
+"g": 0.08
+},
+{
+"t": "Vintage Rolleiflex camera",
+"c": "Collectibles",
+"k": "Good",
+"p": 18000,
+"d": "1960s twin-lens reflex camera. Shutter tested, leather case.",
+"w": [
+"Rolleiflex",
+"Twin-lens_reflex_camera"
+],
+"h": 1.2,
+"n": 7,
+"s": "Kabir",
+"g": 0.04
+},
+{
+"t": "Discovery of India, Nehru",
+"c": "Books",
+"k": "Good",
+"p": 600,
+"d": "First Indian edition, dust cover intact.",
+"w": [
+"The_Discovery_of_India",
+"Jawaharlal_Nehru"
+],
+"h": 75.7,
+"n": 9,
+"s": "Ishita",
+"g": 0.13
+},
+{
+"t": "Seagate 2TB hard drive",
+"c": "Electronics",
+"k": "Good",
+"p": 3000,
+"d": "External USB 3.0 portable drive, tested.",
+"w": [
+"Hard_disk_drive",
+"Seagate_Technology"
+],
+"h": 95.6,
+"n": 0,
+"s": "Rohan",
+"g": 0.38
+},
+{
+"t": "Wall clock, pendulum",
+"c": "Home",
+"k": "Good",
+"p": 2200,
+"d": "Wooden pendulum clock with chime.",
+"w": [
+"Pendulum_clock",
+"Wall_clock"
+],
+"h": 196.7,
+"n": 3,
+"s": "Neha",
+"g": 0.17
+},
+{
+"t": "TVS Jupiter",
+"c": "Vehicles",
+"k": "Good",
+"p": 42000,
+"d": "2019 scooter, 12,000 km.",
+"w": [
+"TVS_Jupiter",
+"TVS_Motor_Company"
+],
+"h": 34.9,
+"n": 4,
+"s": "Vikram",
+"g": 0.07
+},
+{
+"t": "Camping tent, 4 person",
+"c": "Other",
+"k": "Good",
+"p": 4500,
+"d": "Waterproof dome tent with rainfly.",
+"w": [
+"Tent",
+"Camping"
+],
+"h": 18.2,
+"n": 7,
+"s": "Sara",
+"g": 0.36
+},
+{
+"t": "Rare stamp album",
+"c": "Collectibles",
+"k": "Good",
+"p": 4500,
+"d": "Indian commemorative stamps from 1947 onwards.",
+"w": [
+"Postage_stamp",
+"Philately"
+],
+"h": 147.1,
+"n": 5,
+"s": "Ananya",
+"g": 0.13
+},
+{
+"t": "Fitbit Charge 5",
+"c": "Electronics",
+"k": "Good",
+"p": 6000,
+"d": "Fitness tracker with two straps and charger.",
+"w": [
+"Fitbit",
+"Activity_tracker"
+],
+"h": 1.5,
+"n": 4,
+"s": "Karan",
+"g": 0.31
+},
+{
+"t": "Mechanical keyboard, 75%",
+"c": "Electronics",
+"k": "New",
+"p": 3500,
+"d": "Hot-swappable, tactile switches, PBT keycaps.",
+"w": [
+"Mechanical_keyboard",
+"Computer_keyboard"
+],
+"h": 91.1,
+"n": 3,
+"s": "Divya",
+"g": 0.16
+},
+{
+"t": "Google Pixel 6a",
+"c": "Electronics",
+"k": "Like new",
+"p": 18000,
+"d": "128GB, charcoal, battery health excellent.",
+"w": [
+"Pixel_6a",
+"Google_Pixel"
+],
+"h": 133.5,
+"n": 3,
+"s": "Arjun",
+"g": 0.34
+},
+{
+"t": "Queen size bed frame",
+"c": "Home",
+"k": "Good",
+"p": 9000,
+"d": "Solid wood with storage drawers.",
+"w": [
+"Bed_frame",
+"Bed"
+],
+"h": 7.2,
+"n": 2,
+"s": "Aarav",
+"g": 0.39
+},
+{
+"t": "Leather messenger bag",
+"c": "Fashion",
+"k": "Good",
+"p": 3200,
+"d": "Hand-stitched brown leather bag with laptop sleeve.",
+"w": [
+"Messenger_bag",
+"Leather"
+],
+"h": 177.7,
+"n": 0,
+"s": "Meera",
+"g": 0.33
+},
+{
+"t": "Air cooler, Symphony",
+"c": "Home",
+"k": "Good",
+"p": 5500,
+"d": "Tower cooler, 50 litre tank.",
+"w": [
+"Evaporative_cooler",
+"Symphony_Limited"
+],
+"h": 4.1,
+"n": 0,
+"s": "Kabir",
+"g": 0.37
+},
+{
+"t": "Hero Splendor Plus",
+"c": "Vehicles",
+"k": "Good",
+"p": 32000,
+"d": "2017, 25,000 km, well maintained.",
+"w": [
+"Hero_Splendor",
+"Hero_MotoCorp"
+],
+"h": 186.4,
+"n": 0,
+"s": "Ishita",
+"g": 0.37
+},
+{
+"t": "Sherlock Holmes omnibus",
+"c": "Books",
+"k": "Good",
+"p": 1100,
+"d": "Complete stories, leather-bound.",
+"w": [
+"Sherlock_Holmes",
+"Arthur_Conan_Doyle"
+],
+"h": 57.4,
+"n": 15,
+"s": "Rohan",
+"g": 0.12
+},
+{
+"t": "Bose SoundLink speaker",
+"c": "Electronics",
+"k": "Good",
+"p": 6000,
+"d": "Portable Bluetooth speaker with deep bass.",
+"w": [
+"Bose_Corporation",
+"Loudspeaker"
+],
+"h": 13.2,
+"n": 15,
+"s": "Neha",
+"g": 0.08
+},
+{
+"t": "Mahindra Bolero",
+"c": "Vehicles",
+"k": "Good",
+"p": 420000,
+"d": "2014 diesel, 80,000 km, new battery.",
+"w": [
+"Mahindra_Bolero",
+"Mahindra_%26_Mahindra"
+],
+"h": 62.8,
+"n": 7,
+"s": "Vikram",
+"g": 0.18
+},
+{
+"t": "Kurta set, cotton",
+"c": "Fashion",
+"k": "New",
+"p": 1200,
+"d": "Chikankari white cotton kurta pyjama set, size L.",
+"w": [
+"Kurta",
+"Cotton"
+],
+"h": 41.5,
+"n": 2,
+"s": "Sara",
+"g": 0.16
+},
+{
+"t": "Portable Bluetooth speaker",
+"c": "Electronics",
+"k": "Like new",
+"p": 2500,
+"d": "Compact waterproof speaker, 12 hour battery. Cable included.",
+"w": [
+"Loudspeaker",
+"Bluetooth"
+],
+"h": 48,
+"n": 0,
+"s": "Demo User",
+"g": 0.3
+},
+{
+"t": "Mahabharata, Gita Press",
+"c": "Books",
+"k": "Good",
+"p": 1800,
+"d": "Complete set, Hindi, 6 volumes.",
+"w": [
+"Mahabharata",
+"Gita_Press"
+],
+"h": 79.6,
+"n": 1,
+"s": "Karan",
+"g": 0.28
+},
+{
+"t": "Canon EOS 1500D DSLR",
+"c": "Electronics",
+"k": "Good",
+"p": 22000,
+"d": "18-55mm kit lens, 2 batteries, 8,000 shutter count.",
+"w": [
+"Canon_EOS_1500D",
+"Canon_EOS"
+],
+"h": 25.0,
+"n": 5,
+"s": "Divya",
+"g": 0.17
+},
+{
+"t": "Honda Activa 5G",
+"c": "Vehicles",
+"k": "Good",
+"p": 38000,
+"d": "2018 scooter, 14,000 km, single owner.",
+"w": [
+"Honda_Activa",
+"Scooter_(motorcycle)"
+],
+"h": 3.1,
+"n": 1,
+"s": "Arjun",
+"g": 0.03
+},
+{
+"t": "Badminton racket pair",
+"c": "Other",
+"k": "Like new",
+"p": 2200,
+"d": "Two Yonex rackets with shuttles.",
+"w": [
+"Badminton",
+"Yonex"
+],
+"h": 4.5,
+"n": 0,
+"s": "Aarav",
+"g": 0.17
+},
+{
+"t": "Sewing machine, Usha",
+"c": "Other",
+"k": "Good",
+"p": 3800,
+"d": "Manual machine with cover.",
+"w": [
+"Sewing_machine",
+"Usha_International"
+],
+"h": 25.8,
+"n": 0,
+"s": "Meera",
+"g": 0.11
+},
+{
+"t": "Bone china dinner set",
+"c": "Home",
+"k": "New",
+"p": 3200,
+"d": "32 piece dinner set, floral border.",
+"w": [
+"Bone_china",
+"Tableware"
+],
+"h": 181.8,
+"n": 0,
+"s": "Kabir",
+"g": 0.23
+},
+{
+"t": "Ruskin Bond collection",
+"c": "Books",
+"k": "Good",
+"p": 1000,
+"d": "10 paperbacks of short stories.",
+"w": [
+"Ruskin_Bond",
+"Short_story"
+],
+"h": 45.4,
+"n": 1,
+"s": "Ishita",
+"g": 0.26
+},
+{
+"t": "Maruti Suzuki Alto 800",
+"c": "Vehicles",
+"k": "Good",
+"p": 185000,
+"d": "2015 petrol, 40,000 km, insurance valid.",
+"w": [
+"Maruti_Suzuki_Alto",
+"Maruti_Suzuki"
+],
+"h": 80.4,
+"n": 9,
+"s": "Rohan",
+"g": 0.38
+},
+{
+"t": "Yoga mat and blocks",
+"c": "Other",
+"k": "New",
+"p": 1000,
+"d": "6mm non-slip mat with two blocks.",
+"w": [
+"Yoga_mat",
+"Yoga"
+],
+"h": 82.2,
+"n": 7,
+"s": "Neha",
+"g": 0.13
+},
+{
+"t": "Royal Enfield Classic 350",
+"c": "Vehicles",
+"k": "Good",
+"p": 90000,
+"d": "2018 model, 21,000 km, first owner, papers clear.",
+"w": [
+"Royal_Enfield_Classic_350",
+"Royal_Enfield_Classic"
+],
+"h": 26.1,
+"n": 0,
+"s": "Vikram",
+"g": 0.39
+},
+{
+"t": "Brass pooja thali set",
+"c": "Home",
+"k": "New",
+"p": 1600,
+"d": "Complete pooja set with bell and lamp.",
+"w": [
+"Puja_(Hinduism)",
+"Thali"
+],
+"h": 147.8,
+"n": 0,
+"s": "Sara",
+"g": 0.12
+},
+{
+"t": "Leather jacket, size M",
+"c": "Fashion",
+"k": "Good",
+"p": 5500,
+"d": "Genuine black leather biker jacket.",
+"w": [
+"Leather_jacket",
+"Jacket"
+],
+"h": 45.0,
+"n": 5,
+"s": "Ananya",
+"g": 0.16
+},
+{
+"t": "Dell 24-inch monitor",
+"c": "Electronics",
+"k": "Good",
+"p": 6500,
+"d": "Full HD IPS, HDMI and VGA, wall-mount ready.",
+"w": [
+"Computer_monitor",
+"Dell"
+],
+"h": 2.9,
+"n": 2,
+"s": "Karan",
+"g": 0.21
+},
+{
+"t": "Oxford English Dictionary",
+"c": "Books",
+"k": "Good",
+"p": 3000,
+"d": "Compact edition with magnifier.",
+"w": [
+"Oxford_English_Dictionary",
+"Dictionary"
+],
+"h": 42.8,
+"n": 3,
+"s": "Divya",
+"g": 0.06
+},
+{
+"t": "Tabla set",
+"c": "Other",
+"k": "Good",
+"p": 4000,
+"d": "Pair with cushions and hammer.",
+"w": [
+"Tabla",
+"Hindustani_classical_music"
+],
+"h": 4.0,
+"n": 12,
+"s": "Arjun",
+"g": 0.08
+},
+{
+"t": "Vintage typewriter",
+"c": "Collectibles",
+"k": "Fair",
+"p": 7500,
+"d": "Manual portable typewriter with case.",
+"w": [
+"Typewriter",
+"Remington_Rand"
+],
+"h": 2.8,
+"n": 0,
+"s": "Aarav",
+"g": 0.09
+},
+{
+"t": "Rare comics, Amar Chitra Katha",
+"c": "Books",
+"k": "Good",
+"p": 2500,
+"d": "Lot of 40 vintage issues.",
+"w": [
+"Amar_Chitra_Katha",
+"Comics"
+],
+"h": 3.1,
+"n": 1,
+"s": "Meera",
+"g": 0.15
+},
+{
+"t": "Kawasaki Ninja 300",
+"c": "Vehicles",
+"k": "Good",
+"p": 240000,
+"d": "2017 sportbike, 9,000 km, service history.",
+"w": [
+"Kawasaki_Ninja_300",
+"Kawasaki_Ninja"
+],
+"h": 99.3,
+"n": 4,
+"s": "Kabir",
+"g": 0.39
+},
+{
+"t": "Nike Air Max sneakers",
+"c": "Fashion",
+"k": "Good",
+"p": 4000,
+"d": "UK 9, white and grey, lightly worn.",
+"w": [
+"Nike_Air_Max",
+"Sneakers"
+],
+"h": 104.4,
+"n": 0,
+"s": "Ishita",
+"g": 0.23
+},
+{
+"t": "GoPro Hero 9",
+"c": "Electronics",
+"k": "Like new",
+"p": 14000,
+"d": "Action camera with mounts, 2 batteries, waterproof case.",
+"w": [
+"GoPro",
+"GoPro_Hero"
+],
+"h": 128.1,
+"n": 0,
+"s": "Rohan",
+"g": 0.04
+},
+{
+"t": "Mechanical pocket watch",
+"c": "Collectibles",
+"k": "Fair",
+"p": 6500,
+"d": "Swiss movement, silver case, runs well.",
+"w": [
+"Pocket_watch",
+"Watch"
+],
+"h": 90.7,
+"n": 7,
+"s": "Neha",
+"g": 0.03
+},
+{
+"t": "Tanjore painting",
+"c": "Collectibles",
+"k": "Good",
+"p": 9000,
+"d": "Gold-leaf painting of Lord Krishna, framed.",
+"w": [
+"Thanjavur_painting",
+"Tanjore_painting"
+],
+"h": 2.9,
+"n": 7,
+"s": "Vikram",
+"g": 0.04
+},
+{
+"t": "Xbox Series S",
+"c": "Electronics",
+"k": "Good",
+"p": 17000,
+"d": "512GB, controller and HDMI cable included.",
+"w": [
+"Xbox_Series_X_and_Series_S",
+"Xbox_Series_S"
+],
+"h": 79.3,
+"n": 4,
+"s": "Sara",
+"g": 0.12
+},
+{
+"t": "iPad Air 4th gen",
+"c": "Electronics",
+"k": "Like new",
+"p": 34000,
+"d": "64GB WiFi, with Apple Pencil 2 and a folio case.",
+"w": [
+"IPad_Air_(4th_generation)",
+"IPad_Air"
+],
+"h": 47.3,
+"n": 3,
+"s": "Ananya",
+"g": 0.13
+},
+{
+"t": "Handloom silk saree",
+"c": "Fashion",
+"k": "New",
+"p": 4000,
+"d": "Banarasi silk in deep green with gold border. Never worn.",
+"w": [
+"Banarasi_sari",
+"Sari"
+],
+"h": 4.6,
+"n": 0,
+"s": "Karan",
+"g": 0.33
+},
+{
+"t": "Wings of Fire, signed",
+"c": "Books",
+"k": "Good",
+"p": 1500,
+"d": "Autobiography of APJ Abdul Kalam, signed copy.",
+"w": [
+"Wings_of_Fire_(autobiography)",
+"A._P._J._Abdul_Kalam"
+],
+"h": 60.7,
+"n": 5,
+"s": "Divya",
+"g": 0.33
+},
+{
+"t": "Sony Alpha a6000",
+"c": "Electronics",
+"k": "Good",
+"p": 28000,
+"d": "Mirrorless camera body with kit lens. Very light use.",
+"w": [
+"Sony_Alpha_6000",
+"Sony_α6000"
+],
+"h": 30.6,
+"n": 1,
+"s": "Arjun",
+"g": 0.25
+},
+{
+"t": "World atlas, large format",
+"c": "Books",
+"k": "Good",
+"p": 1400,
+"d": "National Geographic atlas, 10th edition.",
+"w": [
+"Atlas",
+"World_map"
+],
+"h": 2.5,
+"n": 9,
+"s": "Aarav",
+"g": 0.09
+},
+{
+"t": "Vintage Parker fountain pen",
+"c": "Collectibles",
+"k": "Good",
+"p": 3500,
+"d": "1970s Parker 51 style pen, nib in good order.",
+"w": [
+"Parker_Pen_Company",
+"Fountain_pen"
+],
+"h": 34.3,
+"n": 1,
+"s": "Meera",
+"g": 0.39
+},
+{
+"t": "Nintendo Switch OLED",
+"c": "Electronics",
+"k": "Like new",
+"p": 21000,
+"d": "White Joy-Cons, dock, charger, screen guard applied.",
+"w": [
+"Nintendo_Switch",
+"Nintendo_Switch_(OLED_model)"
+],
+"h": 5.4,
+"n": 5,
+"s": "Kabir",
+"g": 0.21
+},
+{
+"t": "The Art of Computer Programming",
+"c": "Books",
+"k": "Good",
+"p": 6000,
+"d": "Volumes 1 to 4A boxed set.",
+"w": [
+"The_Art_of_Computer_Programming",
+"Donald_Knuth"
+],
+"h": 16.7,
+"n": 9,
+"s": "Ishita",
+"g": 0.34
+},
+{
+"t": "Acoustic guitar, Yamaha",
+"c": "Other",
+"k": "Good",
+"p": 6500,
+"d": "Full-size F310 with gig bag.",
+"w": [
+"Acoustic_guitar",
+"Yamaha_Corporation"
+],
+"h": 85.5,
+"n": 4,
+"s": "Rohan",
+"g": 0.12
+},
+{
+"t": "Apple Watch Series 7",
+"c": "Electronics",
+"k": "Like new",
+"p": 19000,
+"d": "45mm GPS, starlight aluminium, extra sport band.",
+"w": [
+"Apple_Watch_Series_7",
+"Apple_Watch"
+],
+"h": 42.3,
+"n": 12,
+"s": "Neha",
+"g": 0.09
+},
+{
+"t": "Nikon D3500 camera",
+"c": "Electronics",
+"k": "Good",
+"p": 24000,
+"d": "DSLR with 18-55mm lens, bag and 32GB card.",
+"w": [
+"Nikon_D3500",
+"Nikon_D3000_series"
+],
+"h": 1.1,
+"n": 15,
+"s": "Vikram",
+"g": 0.2
+},
+{
+"t": "Persian style carpet",
+"c": "Home",
+"k": "Good",
+"p": 8500,
+"d": "6 x 4 ft wool carpet in deep red.",
+"w": [
+"Persian_carpet",
+"Carpet"
+],
+"h": 120.0,
+"n": 4,
+"s": "Sara",
+"g": 0.04
+},
+{
+"t": "Antique wooden chess set",
+"c": "Collectibles",
+"k": "Good",
+"p": 2800,
+"d": "Hand-carved Rajasthani set with inlay board.",
+"w": [
+"Chess_set",
+"Chess"
+],
+"h": 8.9,
+"n": 0,
+"s": "Ananya",
+"g": 0.16
+},
+{
+"t": "Raspberry Pi 4 kit",
+"c": "Electronics",
+"k": "New",
+"p": 5500,
+"d": "4GB board, case, power supply and 32GB card.",
+"w": [
+"Raspberry_Pi",
+"Raspberry_Pi_4"
+],
+"h": 5.3,
+"n": 0,
+"s": "Karan",
+"g": 0.26
+},
+{
+"t": "Denim jacket, Levi's",
+"c": "Fashion",
+"k": "Good",
+"p": 2800,
+"d": "Classic trucker jacket, size L.",
+"w": [
+"Levi_Strauss_%26_Co.",
+"Denim"
+],
+"h": 4.5,
+"n": 2,
+"s": "Divya",
+"g": 0.4
+}
+]
